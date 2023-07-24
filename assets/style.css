@@ -1,1 +1,46 @@
+/* body */
+body{
+    background: powderblue;
+}
+.apply{
+    padding: 28px;
+    margin: 100px auto 0;
+    width: 100%;
+    background: palevioletred;
+    max-width: 590px;
+    border-radius: 12px;
+}
+/* changes color of the header */
+.apply h1{
+color: black;
 
+}
+.what{
+    padding: 15px 0;
+}
+/* question style */
+.what h2{
+    color: black;
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 500;
+}
+/* button style */
+.button{
+        color: rgb(2, 11, 11);
+        font-weight: 400;
+        text-align: center;
+        width: auto;
+        cursor: pointer;
+}
+.button :hover{
+    background-color: brown;
+}
+/* next button style */
+#next{
+    color: rgb(2, 11, 11);
+    font-weight: 400;
+    text-align: center;
+    width: auto;
+    cursor: pointer;
+}
